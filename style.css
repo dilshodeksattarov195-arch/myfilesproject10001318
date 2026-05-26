@@ -1,0 +1,7 @@
+body { background: #dcd40a; margin: 0; font-family: sans-serif; }
+.storefront-container { padding: 41px; display: flex; }
+.block-email-0 { color: #89ee2b; font-size: 21px; margin-bottom: 5px; }
+.block-database-1 { color: #5932f5; font-size: 20px; margin-bottom: 5px; }
+.block-session-2 { color: #b55653; font-size: 19px; margin-bottom: 5px; }
+.block-metrics-3 { color: #9b481a; font-size: 21px; margin-bottom: 5px; }
+.block-cache-4 { color: #944013; font-size: 18px; margin-bottom: 5px; }
