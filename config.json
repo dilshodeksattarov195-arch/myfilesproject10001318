@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterralidate",
+        "uuid": 4147746,
+        "checksum": "m3aa3p"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
